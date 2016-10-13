@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/build/intermediates/res/merged/release/drawable/icon.png",
+        "source": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/build/intermediates/res/merged/release/drawable/bg70.png",
+        "source": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/src/main/res/drawable/bg70.png"
+    },
+    {
+        "merged": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/build/intermediates/res/merged/release/drawable/icon_03.png",
+        "source": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/src/main/res/drawable/icon_03.png"
+    },
+    {
+        "merged": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/build/intermediates/res/merged/release/drawable/bg00.png",
+        "source": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/src/main/res/drawable/bg00.png"
+    },
+    {
+        "merged": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/build/intermediates/res/merged/release/drawable/card_info.png",
+        "source": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/src/main/res/drawable/card_info.png"
+    },
+    {
+        "merged": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/build/intermediates/res/merged/release/drawable/camera_button_background.xml",
+        "source": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/src/main/res/drawable/camera_button_background.xml"
+    },
+    {
+        "merged": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/build/intermediates/res/merged/release/drawable/button_close_normal.png",
+        "source": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/src/main/res/drawable/button_close_normal.png"
+    },
+    {
+        "merged": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/build/intermediates/res/merged/release/drawable/new_target_button_background.xml",
+        "source": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/src/main/res/drawable/new_target_button_background.xml"
+    },
+    {
+        "merged": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/build/intermediates/res/merged/release/drawable/icon_camera_pressed.png",
+        "source": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/src/main/res/drawable/icon_camera_pressed.png"
+    },
+    {
+        "merged": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/build/intermediates/res/merged/release/drawable/icon_camera_normal.png",
+        "source": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/src/main/res/drawable/icon_camera_normal.png"
+    },
+    {
+        "merged": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/build/intermediates/res/merged/release/drawable/icon_plus_normal.png",
+        "source": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/src/main/res/drawable/icon_plus_normal.png"
+    },
+    {
+        "merged": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/build/intermediates/res/merged/release/drawable/vuforia_splash.png",
+        "source": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/src/main/res/drawable/vuforia_splash.png"
+    },
+    {
+        "merged": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/build/intermediates/res/merged/release/drawable/button_close_pressed.png",
+        "source": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/src/main/res/drawable/button_close_pressed.png"
+    },
+    {
+        "merged": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/build/intermediates/res/merged/release/drawable/logo.png",
+        "source": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/build/intermediates/res/merged/release/drawable/icon_01.png",
+        "source": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/src/main/res/drawable/icon_01.png"
+    },
+    {
+        "merged": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/build/intermediates/res/merged/release/drawable/round_bg.xml",
+        "source": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/src/main/res/drawable/round_bg.xml"
+    },
+    {
+        "merged": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/build/intermediates/res/merged/release/drawable/close_button_background.xml",
+        "source": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/src/main/res/drawable/close_button_background.xml"
+    },
+    {
+        "merged": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/build/intermediates/res/merged/release/drawable/icon_plus_pressed.png",
+        "source": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/src/main/res/drawable/icon_plus_pressed.png"
+    },
+    {
+        "merged": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/build/intermediates/res/merged/release/drawable/reticle.png",
+        "source": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/src/main/res/drawable/reticle.png"
+    },
+    {
+        "merged": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/build/intermediates/res/merged/release/drawable/scanline.png",
+        "source": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/src/main/res/drawable/scanline.png"
+    },
+    {
+        "merged": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/build/intermediates/res/merged/release/drawable/icon_02.png",
+        "source": "/Users/Rahunanthanan/Downloads/vuforia-sdk-android-6-0-117-2/samples/VuforiaSamples-6-0-120/app/src/main/res/drawable/icon_02.png"
+    }
+]
